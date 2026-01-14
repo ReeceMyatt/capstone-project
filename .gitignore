@@ -1,0 +1,18 @@
+# Bytecode files
+__pycache__/
+*.pyc
+
+# PyCharm settings
+.idea/
+*/.idea/
+
+# Virtual environment
+venv/
+.venv/
+
+# Config File
+/server/configurations/config.yaml
+
+#ssl files
+/server/ssl
+node_modules
